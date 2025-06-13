@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+.container {
+  width: 300px;
+  margin: 0 auto;
+}
+#weather-result {
+  margin-top: 20px;
+}
